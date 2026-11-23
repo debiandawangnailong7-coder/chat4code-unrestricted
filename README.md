@@ -1,3 +1,7 @@
+https://github.com/dawangnailong/chat4code-unrestricted
+
+出于个人原因，请移步至 [Here](https://github.com/dawangnailong/chat4code-unrestricted)
+
 <p align="center">
   <img src="./brand.jpg" alt="chat4code-unrestricted — Yes, Sun Xiaochuan Chat" width="760">
 </p>
